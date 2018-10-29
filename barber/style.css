@@ -1,0 +1,182 @@
+body{
+    background-image: url(images/background.png);
+    background-repeat: no-repeat;
+    font-family: PT Sans Narrow;
+    font-weight: bold;
+}
+
+header{
+    background-color: black;
+    color: white;
+}
+
+.list{
+    list-style-type: none;
+    display: flex;
+
+}
+
+.heads {
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 960px;
+    height: 60px;
+    padding-top: 10px;
+    text-align: center;
+}
+.menuitem {
+    width: 20%;
+}
+
+.join {
+    width: 20%;
+    margin-left: 70px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+.item-logo {
+    text-align: center;
+    margin-top: 60px;
+
+}
+
+.features {
+    display: flex;
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-top: 6%;
+    justify-content: space-between;
+}
+.fewfeatures {
+    color: white;
+    width: 30%;
+    font-size: 30px;
+    text-align: center;
+}
+.korob {
+    font-size: 16px;
+    margin-top: 12px;
+}
+.romb {
+    text-align: center;
+    margin-top: 10px;
+}
+    
+.inform {
+    background-color: white;
+    height: 360px;
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-top: 110px;
+    width: 860px;
+    padding: 80px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.insidebox {
+    padding-left: 60px;
+    padding-top: 15px;
+    font-size: 30px;
+
+}
+.news {
+    width: 960px;
+    padding-left: 30px;    
+}
+.fotogalary {
+    width: 45%;
+    padding-left: 100px;
+    padding-right: 52px;
+}
+
+.galerybuttons {
+    display: inline;    
+}
+
+.imagegalery {
+    display: flex;
+    margin-bottom: 67px;
+}
+
+.textdate {
+    padding-top: 20px;
+}
+
+.textinside {
+    padding-top: 26px;
+}
+.contactsblock {
+    background-color: white;
+    margin-top: 2%;
+    margin-left: 12%;
+    justify-content: space-between;
+    width: 1020px;
+    height: 400px;
+    display: flex;
+}
+.contactsbutton {
+    justify-content: space-around;
+    padding-top: 60px;
+    padding: 50px;
+    padding-left: 0px;
+}
+.contactsbutton1 {
+    display: inline;
+}
+.contactsbutton2 {
+    display: inline;
+} 
+.registration {
+    width: 45%;
+    padding-top: 30px;
+    padding-right: 103px;
+    padding-left: 128px;
+}
+.contactinform {
+    width: 45%;
+    padding-left: 115px;
+    padding-top: 30px;
+}
+.contacts1 {
+    padding-top: 30px;
+}
+.input {
+    display: flex;
+    justify-content: space-around;
+    padding-right: 60px;
+    border: none;
+}
+.write2 {
+    padding-top: 20px;
+}
+
+footer {
+    background: url(images/footer.png);
+}
+
+.generfooter {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 38px;
+    padding-top: 40px;
+    color: white;
+    padding: 80px;
+    width: 1020px;
+    margin: 40px auto 0 auto;
+}
+.footer2 {
+    padding-right: 150px;
+}
+.newsimg {
+    padding-top: 20px;
+}
+.develop {
+    padding-left: 23px;
+}
